@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "catApp",
-    "slug": "catApp",
+    "name": "dogApp",
+    "slug": "dogApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
